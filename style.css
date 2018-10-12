@@ -1,0 +1,116 @@
+body{
+  background-color:#f1f1f1;
+}
+
+#title{
+  text-align:center;
+  font-color:#131313;
+}
+#Description{
+  text-align:center;
+  font-color:#131313;
+}
+#main{
+  width:95%;
+  margin:50px 30px 40px 30px;
+  border: outset gray 15px;
+  padding: 12px 12px 12px 12px;
+  content-align: center;
+
+}
+
+.classpick{
+  font-size:12px;
+  background : gray;
+  border-radius:15px;
+  padding: 10px 7px 8px 4px;
+}
+
+#nameContain{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#charNameContain{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.classwrapper{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows:
+  minmax(100px, auto);
+  grid-gap: 20px;
+}
+
+.classname{
+  font-size:20px;
+  text-align:center;
+}
+
+#Barbarian{
+  background-color:#B20000;
+  color:#111111;
+}
+
+#Bard{
+  background-color:#66ff66;
+  color:#111111;
+}
+
+#Cleric{
+  background-color:#ffff66;
+  color:#111111;
+}
+
+#Druid{
+  background-color:#44ee11;
+  color:#111111;
+}
+
+#Fighter{
+  background-color:#993300;
+  color:#111111;
+}
+
+#Monk{
+  background-color:#00cc99;
+  color:#111111;
+}
+
+#Paladin{
+  background-color:#cc6699;
+  color:#111111;
+}
+
+#Ranger{
+  background-color:#333300;
+  color:#111111;
+}
+
+#Rogue{
+  background-color:#999966;
+  color:#111111;
+}
+
+#Sorcerer{
+  background-color:#dd1166;
+  color:#111111;
+}
+
+#Warlock{
+  background-color:#6633cc;
+  color:#111111;
+}
+
+#Wizard{
+  background-color:#222299;
+  color:#111111;
+}
