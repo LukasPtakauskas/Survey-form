@@ -10,12 +10,14 @@
 
 <body>
 <h1 id="title"> A Character biuld form </h1>
-<p id="Description"> Create a character </p>
+<p id="description"> Create a character </p>
 <div id="main">
   <form id="survey-form">
     <div id="nameContain">
-    <p>Name:</p>
-    <input name="name" id="name" type="text" required></div>
+
+    <label id="name-label"> Name:</label>
+
+    <input name="name" id="name" type="text" placeholder="Player name"required></div>
     <div id="charNameContain">
     <p>Character name:</p>
     <input name="nickname" id="nickname" type="text">
@@ -239,14 +241,26 @@ Theurgy">Theurgy (UA: Wizard Revisited)<br>
     </div>
     <br> add a table of shop contents here
     <p> Money to be spent in the shop</p>
-    <input id="number">
-    <p>Email:</p>
-    <input name="nickname" id="email" type="text" required>
-    <!--
-  make a validator for email
+    <label id="number-label"> Money to be spent in the shop</label>
+    <input id="number" type="number" step="0.1" placeholder="Min: 0Gp, max: 350Gp" min = "0" max="350">
+    <input id ="shoping-list" type="text" placeholder="Two bottles of ale">
+    <label id="email-label"> Email:</label>
+    <input name="email" id="email" type="email" pattern="+@+" placeholder="email or discord" required>
 
--->
+    <label for="story-extra">So what's your story?</label>
+    <textarea id="story-extra" name="advanced +1" maxlength="200"
+                  wrap="hard">
+    1. Who are you? (Your origins) What is your name? Is it known to other people or are you called that way only by your close relatives, giving other name publicly? What is your race? Are you proud of your race or you don’t seem to divide people by them, or, at least, don’t give it significance? How old are you?
+    2. What is your background? (Your ties to the world) Do you have a family you grew in or started yourself or are you an orphan, refugee or apprentice? Who and how did they raise you? Are they far from here? Do you have a way to keep in touch? Are they settled down or somewhere out in the world? Are you aiming to meet them? Do they know why you left? (Backgrounds for ideas)
+    3. How do you look? (Your appearance) What is your physical appearance? Height, weight, build? What do you wear (Any of the kits or your own outfit)? Do you have anything that makes you distinguishable? Piercing, jewelry, beard, tattoos, missing limbs, scars, bald head, a sigil on your coat or coat of arms on your shield? Do they mean anything to you or your background or are they just decorations? Do they have any significance in the world?
+    4. What is your class? (Your skill expectations) Where did you receive your training? Was it someone from your background that helped you achieve the skills you have now or were you a self-tutor?
+    5. Where do you come from? (Your image and comfort)  Are you local, coming from somewhere known or are you hailing from somewhere exotic: cold north, vast deserts and steppes, unexplored jungles or distant metropolis? Is there anything extraordinary or unusual to local customs that you bring from your culture: habits, looks, weapons, outfits, accent or social interactions?
+    6. What is your character? (Your role-play) What are your goals, ideals, beliefs, religion, wishes, bonds, flaws, quirks, weaknesses?  Do people see you as talkative, happy, hot-headed, cold-hearted, reserved or detached?
+    7. Why are you here? (Your ties to the story) Why have you left what you had for adventuring? A personal or guild quest, search for something important, wanderlust, hunt for fortune, a service, a deed or something else? Or maybe you only dream of starting to do something of the previously mentioned?
+    8. What people speak of you? (Your representation) What are two positive, two negative and one fake rumor, that people speak of you? (You can use the answers from before or think of something new: your stats, your deeds, your companionship, your training, your horse, etc.)
+                </textarea>
 
+  <input type="button" id="submit">
   </form>
 
   </form>
