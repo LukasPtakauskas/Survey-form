@@ -1,247 +1,194 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet"
-        type="text/css"
-        href="style.css" />
-<title>Character Survey DnD 5e</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <title>Character Survey DnD 5e</title>
 </head>
 
 <body>
-<h1 id="title"> A Character biuld form </h1>
-<p id="description"> Create a character </p>
-<div id="main">
-  <form id="survey-form">
-    <div id="nameContain">
+  <h1 id="title"> A Character biuld form </h1>
+  <p id="description"> Create a character </p>
+  <div id="main">
+    <form id="survey-form">
+      <div id="nameContain">
 
-    <label id="name-label"> Name:</label>
+        <label id="name-label"> Name:</label>
 
-    <input name="name" id="name" type="text" placeholder="Player name"required></div>
-    <div id="charNameContain">
-    <p>Character name:</p>
-    <input name="nickname" id="nickname" type="text" placeholder="Character Name">
-  </div>
-    <p style="text-align:center;"> Pick a character class</p>
-    <div class="classwrapper">
-      <div class="classpick" id="Barbarian">
-        <p class="classname">
-          Barbarian</p><br>
-        <input type="radio" name="class" value="Path of the Ancestral Guardian">Path of the Ancestral Guardian (XGtE p.9)
-        <br>
-        <input type="radio" name="class" value="Path of the Battlerager">Path of the Battlerager (SCAG p.121)
-        <br>
-        <input type="radio" name="class" value="Path of the Berserker">Path of the Berserker (PHB p.49)
-        <br>
-        <input type="radio" name="class" value="Path of the Storm Herald">Path of the Storm Herald (XGtE p.10) <br>
-        <input type="radio" name="class" value="Path of the Totem Warrior">Path of the Totem Warrior (PHB p.50)
-        <br>
-        <input type="radio" name="class" value=" Path of the Zealot">Path of the Zealot (XGtE p.11) <br>
+        <input name="name" id="name" type="text" placeholder="Player name" required></div>
+      <div id="charNameContain">
+        <p>Character name:</p>
+        <input name="nickname" id="nickname" type="text" placeholder="Character Name">
       </div>
-      <div class="classpick" id="Bard">
-        <p class="classname">
+      <p style="text-align:center;"> Pick a character class</p>
+      <div class="classwrapper">
+        <div class="classpick" id="Barbarian">
+          <p class="classname">
+            Barbarian</p><br>
+          <input type="radio" name="class" value="Path of the Ancestral Guardian">Path of the Ancestral Guardian (XGtE p.9)<br>
+          <input type="radio" name="class" value="Path of the Battlerager">Path of the Battlerager (SCAG p.121)<br>
+          <input type="radio" name="class" value="Path of the Berserker">Path of the Berserker (PHB p.49)<br>
+          <input type="radio" name="class" value="Path of the Storm Herald">Path of the Storm Herald (XGtE p.10)<br>
+          <input type="radio" name="class" value="Path of the Totem Warrior">Path of the Totem Warrior (PHB p.50)<br>
+          <input type="radio" name="class" value="Path of the Zealot">Path of the Zealot (XGtE p.11) <br>
+        </div>
+        <div class="classpick" id="Bard">
+          <p class="classname">
 
-          Bard</p>
-        <br>
-        <input type="radio" name="class" value="
-College of Glamour">College of Glamour (XGtE p.14)
-        <br>
-        <input type="radio" name="class" value=" College of Lore">College of Lore (PHB p.54) <br>
-        <input type="radio" name="class" value="
-College of Satire">College of Satire (UA: Kits of Old)
-        <br>
-        <input type="radio" name="class" value=" College of Swords">College of Swords (XGtE p.15) <br>
-        <input type="radio" name="class" value="
-College of Valor">College of Valor (PHB p.55)
-        <br>
-        <input type="radio" name="class" value=" College of Whispers">College of Whispers (XGtE p.16)<br> </div>
-      <div class="classpick" id="Cleric">
-        <p class="classname">
-          Cleric</p> <br>
-        <input type="radio" name="class" value="
+            Bard</p>
+          <br>
+          <input type="radio" name="class" value="College of Glamour">College of Glamour (XGtE p.14)<br>
+          <input type="radio" name="class" value="College of Lore">College of Lore (PHB p.54) <br>
+          <input type="radio" name="class" value="College of Satire">College of Satire (UA: Kits of Old)<br>
+          <input type="radio" name="class" value="College of Swords">College of Swords (XGtE p.15)<br>
+          <input type="radio" name="class" value="College of Valor">College of Valor (PHB p.55)<br>
+          <input type="radio" name="class" value="College of Whispers">College of Whispers (XGtE p.16)<br>
+        </div>
+        <div class="classpick" id="Cleric">
+          <p class="classname">
+            Cleric</p> <br>
+          <input type="radio" name="class" value="
 Arcana Domain">Arcana Domain (SCAG p.125)<br>
 
-        <input type="radio" name="class" value="
-Death Domain">Death Domain (DMG p.96)<br>
-        <input type="radio" name="class" value=" Forge Domain">Forge Domain (XGtE p.18)<br>
-        <input type="radio" name="class" value="
-Grave Domain">Grave Domain (XGtE p.19)<br>
-        <input type="radio" name="class" value=" Knowledge Domain">Knowledge Domain (PHB p.59)<br>
-        <input type="radio" name="class" value="
-Life Domain">Life Domain (PHB p.60)<br>
-        <input type="radio" name="class" value=" Light Domain">Light Domain (PHB p.60)<br>
-        <input type="radio" name="class" value="
-Nature Domain">Nature Domain (PHB p.61)<br>
-        <input type="radio" name="class" value=" Protection Domain">Protection Domain (UA: Cleric: Divine Domains)<br>
-        <input type="radio" name="class" value="
-Tempest Domain">Tempest Domain (PHB p.62)<br>
-        <input type="radio" name="class" value=" Trickery Domain">Trickery Domain (PHB p.62)<br>
-        <input type="radio" name="class" value="
-War Domain">War Domain (PHB p.63)<br> </div>
-      <div class="classpick" id="Druid">
-        <p class="classname">
-          Druid
-        </p>
-        <br>
-        <input type="radio" name="class" value=" Circle of Dreams">Circle of Dreams (XGtE p.22)<br>
-        <input type="radio" name="class" value="
-Circle of the Land">Circle of the Land (PHB p.68)<br>
-        <input type="radio" name="class" value=" Circle of the Moon">Circle of the Moon (PHB p.69)<br>
-        <input type="radio" name="class" value="
-Circle of the Shepherd">Circle of the Shepherd (XGtE p.23)<br>
-        <input type="radio" name="class" value=" Circle of Spores">Circle of Spores (UA: Three Subclasses)<br>
-        <input type="radio" name="class" value="
-Circle of Twilight">Circle of Twilight (UA: Druid Circles and Wild Shape)<br></div>
-      <div class="classpick" id="Fighter">
-        <p class="classname">
-          Fighter</p>
-
-        <br>
-        <input type="radio" name="class" value=" Arcane Archer">Arcane Archer (XGtE p.28)<br>
-        <input type="radio" name="class" value="
-Banneret/Purple Dragon Knight">Banneret/Purple Dragon Knight (SCAG p.128)<br>
-        <input type="radio" name="class" value=" Battle Master">Battle Master (PHB p.73)<br>
-        <input type="radio" name="class" value="
-Brute">Brute (UA: Three Subclasses)<br>
-        <input type="radio" name="class" value=" Cavalier">Cavalier (XGtE p.30)<br>
-        <input type="radio" name="class" value="
-Champion">Champion (PHB p.72)<br>
-        <input type="radio" name="class" value=" Eldritch Knight">Eldritch Knight (PHB p.74)<br>
-        <input type="radio" name="class" value="
-Knight">Knight (UA: Fighter: Martial Archetypes)<br>
-        <input type="radio" name="class" value=" Samurai">Samurai (XGtE p.31)<br>
-        <input type="radio" name="class" value="
-Sharpshooter">Sharpshooter (UA: Fighter: Martial Archetypes)<br> </div>
-      <div class="classpick" id="Monk">
-        <p class="classname">
-          Monk</p>
-
-        <br>
-        <input type="radio" name="class" value=" Way of the Drunken Master">Way of the Drunken Master (XGtE p.33)<br>
-        <input type="radio" name="class" value="
-Way of the Four Elements">Way of the Four Elements (PHB p.80)<br>
-        <input type="radio" name="class" value=" Way of the Kensei">Way of the Kensei (XGtE p.34)<br>
-        <input type="radio" name="class" value="
-Way of the Long Death">Way of the Long Death (SCAG p.130)<br>
-        <input type="radio" name="class" value=" Way of the Open Hand">Way of the Open Hand (PHB p.79)<br>
-        <input type="radio" name="class" value="
-Way of Shadow">Way of Shadow (PHB p.80)<br>
-        <input type="radio" name="class" value=" Way of the Sun Soul">Way of the Sun Soul (SCAG p.131, XGtE p.35)<br>
-        <input type="radio" name="class" value="
-Way of Tranquility">Way of Tranquility (UA: Monk: Monastic Traditions)<br> </div>
-      <div class="classpick" id="Paladin">
-        <p class="classname">
-          Paladin
-        </p>
-        <br>
-        <input type="radio" name="class" value=" Oath of the Ancients">Oath of the Ancients (PHB p.86)<br>
-        <input type="radio" name="class" value="
-Oath of Conquest">Oath of Conquest (XGtE p.37)<br>
-        <input type="radio" name="class" value=" Oath of the Crown">Oath of the Crown (SCAG p.132)<br>
-        <input type="radio" name="class" value="
-Oath of Devotion">Oath of Devotion (PHB p.85)<br>
-        <input type="radio" name="class" value=" Oath of Redemption">Oath of Redemption (XGtE p.38)<br>
-        <input type="radio" name="class" value="
-Oath of Treachery ">Oath of Treachery "(UA: Paladin: Sacred Oaths)<br>
-        <input type="radio" name="class" value=" Oath of Vengeance ">Oath of Vengeance (PHB p.87)<br>
-        <input type="radio" name="class" value="
-Oathbreaker">Oathbreaker (DMG p.97)<br> </div>
-      <div class="classpick" id="Ranger">
-        <p class="classname">
-          Ranger</p>
-
-        <br>
-        <input type="radio" name="class" value=" Beast Master">Beast Master (PHB p.93)<br>
-        <input type="radio" name="class" value="
-Gloom Stalker">Gloom Stalker (XGtE p.41)<br>
-        <input type="radio" name="class" value=" Horizon Walker">Horizon Walker (XGtE p.42)<br>
-        <input type="radio" name="class" value="
-Hunter">Hunter (PHB p.93)<br>
-        <input type="radio" name="class" value=" Monster Slayer">Monster Slayer (XGtE p.43)<br>
-        <input type="radio" name="class" value="
-Primeval Guardian"> Primeval Guardian (UA: Ranger and Rogue)<br> </div>
-      <div class="classpick" id="Rogue">
-        <p class="classname">
-          Rogue
-        </p>
-        <br>
-        <input type="radio" name="class" value=" Arcane Trickster">Arcane Trickster (PHB p.97)<br>
-        <input type="radio" name="class" value="
-Assassin">Assassin (PHB p.97)<br>
-        <input type="radio" name="class" value=" Inquisitive">Inquisitive (XGtE p.45)<br>
-        <input type="radio" name="class" value="
-Mastermind">Mastermind (SCAG p.135, XGtE p.46)<br>
-        <input type="radio" name="class" value=" Scout">Scout (XGtE p.47)<br>
-        <input type="radio" name="class" value="
-Swashbuckler">Swashbuckler (SCAG p.135, XGtE p.47)<br>
-        <input type="radio" name="class" value=" Thief">Thief (PHB p.97)<br> </div>
-      <div class="classpick" id="Sorcerer">
-        <p class="classname">
-          Sorcerer
-        </p>
-        <br>
-        <input type="radio" name="class" value="
-Divine Soul">Divine Soul (XGtE p.50)<br>
-        <input type="radio" name="class" value=" Draconic Bloodline">Draconic Bloodline (PHB p.102)<br>
-        <input type="radio" name="class" value="
-Phoenix Sorcery">Phoenix Sorcery (UA: Sorcery)<br>
-        <input type="radio" name="class" value=" Sea Sorcery">Sea Sorcery (UA: Sorcery)<br>
-        <input type="radio" name="class" value="
-Shadow Magic">Shadow Magic (XGtE p.50)<br>
-        <input type="radio" name="class" value=" Stone Sorcery">Stone Sorcery (UA: Sorcery)<br>
-        <input type="radio" name="class" value="
-Storm Sorcery">Storm Sorcery (SCAG p.137, XGtE p.51)<br>
-        <input type="radio" name="class" value=" Wild Magic">Wild Magic (PHB p.103)<br> </div>
-      <div class="classpick" id="Warlock">
-        <p class="classname">
-          Warlock
-        </p>
-        <br>
-        <input type="radio" name="class" value="
-The Archfey">The Archfey (PHB p.108)<br>
-        <input type="radio" name="class" value=" The Celestial">The Celestial (XGtE p.54)<br>
-        <input type="radio" name="class" value="
-The Fiend">The Fiend (PHB p.109)<br>
-        <input type="radio" name="class" value=" Ghost in the Machine">Ghost in the Machine (UA: Modern Magic)<br>
-        <input type="radio" name="class" value="
-The Great Old One">The Great Old One (PHB p.109)<br>
-        <input type="radio" name="class" value=" The Hexblade">The Hexblade (XGtE p.55)<br>
-        <input type="radio" name="class" value="
-The Raven Queen">The Raven Queen (UA: Warlock and Wizard)<br>
-        <input type="radio" name="class" value=" The Seeker">The Seeker (UA: The Faithful)<br>
-        <input type="radio" name="class" value="
-The Undying">The Undying (SCAG p.139)<br> </div>
-      <div class="classpick" id="Wizard">
-        <p class="classname">
-          Wizard
-        </p>
-        <br>
-        <input type="radio" name="class" value="
-Bladesinging">Bladesinging (SCAG p.141)<br>
-        <input type="radio" name="class" value=" Lore Mastery">Lore Mastery (UA: Warlock and Wizard)<br>
-        <input type="radio" name="class" value="
-School of Abjuration">School of Abjuration (PHB p.115)<br>
-        <input type="radio" name="class" value=" School of Conjuration">School of Conjuration (PHB p.116)<br>
-        <input type="radio" name="class" value="
-School of Divination">School of Divination (PHB p.116)<br>
-        <input type="radio" name="class" value=" School of Enchantment">School of Enchantment (PHB p.117)<br>
-        <input type="radio" name="class" value="
-School of Evocation">School of Evocation (PHB p.117)<br>
-        <input type="radio" name="class" value=" School of Illusion">School of Illusion (PHB p.118)<br>
-        <input type="radio" name="class" value="
-School of Invention ">School of Invention(UA: Three Subclasses)<br>
-        <input type="radio" name="class" value=" School of Necromancy">School of Necromancy (PHB p.118)<br>
-        <input type="radio" name="class" value="
-School of Transmutation">School of Transmutation (PHB p.119)<br>
-        <input type="radio" name="class" value=" Technomancy">Technomancy (UA: Modern Magic)<br>
-        <input type="radio" name="class" value="
-Theurgy">Theurgy (UA: Wizard Revisited)<br>
-        <input type="radio" name="class" value=" War Magic">War Magic (XGtE p.59)<br>
+          <input type="radio" name="class" value="Death Domain">Death Domain (DMG p.96)<br>
+          <input type="radio" name="class" value="Forge Domain">Forge Domain (XGtE p.18)<br>
+          <input type="radio" name="class" value="Grave Domain">Grave Domain (XGtE p.19)<br>
+          <input type="radio" name="class" value="Knowledge Domain">Knowledge Domain (PHB p.59)<br>
+          <input type="radio" name="class" value="Life Domain">Life Domain (PHB p.60)<br>
+          <input type="radio" name="class" value="Light Domain">Light Domain (PHB p.60)<br>
+          <input type="radio" name="class" value="Nature Domain">Nature Domain (PHB p.61)<br>
+          <input type="radio" name="class" value="Protection Domain">Protection Domain (UA: Cleric: Divine Domains)<br>
+          <input type="radio" name="class" value="Tempest Domain">Tempest Domain (PHB p.62)<br>
+          <input type="radio" name="class" value="Trickery Domain">Trickery Domain (PHB p.62)<br>
+          <input type="radio" name="class" value="War Domain">War Domain (PHB p.63)<br>
+        </div>
+        <div class="classpick" id="Druid">
+          <p class="classname">
+            Druid
+          </p>
+          <br>
+          <input type="radio" name="class" value="Circle of Dreams">Circle of Dreams (XGtE p.22)<br>
+          <input type="radio" name="class" value="Circle of the Land">Circle of the Land (PHB p.68)<br>
+          <input type="radio" name="class" value="Circle of the Moon">Circle of the Moon (PHB p.69)<br>
+          <input type="radio" name="class" value="Circle of the Shepherd">Circle of the Shepherd (XGtE p.23)<br>
+          <input type="radio" name="class" value="Circle of Spores">Circle of Spores (UA: Three Subclasses)<br>
+          <input type="radio" name="class" value="Circle of Twilight">Circle of Twilight (UA: Druid Circles and Wild Shape)<br></div>
+        <div class="classpick" id="Fighter">
+          <p class="classname">
+            Fighter
+          </p>
+          <br>
+          <input type="radio" name="class" value="Arcane Archer">Arcane Archer (XGtE p.28)<br>
+          <input type="radio" name="class" value="Banneret/Purple Dragon Knight">Banneret/Purple Dragon Knight (SCAG p.128)<br>
+          <input type="radio" name="class" value="Battle Master">Battle Master (PHB p.73)<br>
+          <input type="radio" name="class" value="Brute">Brute (UA: Three Subclasses)<br>
+          <input type="radio" name="class" value="Cavalier">Cavalier (XGtE p.30)<br>
+          <input type="radio" name="class" value="Champion">Champion (PHB p.72)<br>
+          <input type="radio" name="class" value="Eldritch Knight">Eldritch Knight (PHB p.74)<br>
+          <input type="radio" name="class" value="Knight">Knight (UA: Fighter: Martial Archetypes)<br>
+          <input type="radio" name="class" value="Samurai">Samurai (XGtE p.31)<br>
+          <input type="radio" name="class" value="Sharpshooter">Sharpshooter (UA: Fighter: Martial Archetypes)<br> </div>
+        <div class="classpick" id="Monk">
+          <p class="classname">
+            Monk
+          </p>
+          <br>
+          <input type="radio" name="class" value="Way of the Drunken Master">Way of the Drunken Master (XGtE p.33)<br>
+          <input type="radio" name="class" value="Way of the Four Elements">Way of the Four Elements (PHB p.80)<br>
+          <input type="radio" name="class" value="Way of the Kensei">Way of the Kensei (XGtE p.34)<br>
+          <input type="radio" name="class" value="Way of the Long Death">Way of the Long Death (SCAG p.130)<br>
+          <input type="radio" name="class" value="Way of the Open Hand">Way of the Open Hand (PHB p.79)<br>
+          <input type="radio" name="class" value="Way of Shadow">Way of Shadow (PHB p.80)<br>
+          <input type="radio" name="class" value="Way of the Sun Soul">Way of the Sun Soul (SCAG p.131, XGtE p.35)<br>
+          <input type="radio" name="class" value="Way of Tranquility">Way of Tranquility (UA: Monk: Monastic Traditions)<br> </div>
+        <div class="classpick" id="Paladin">
+          <p class="classname">
+            Paladin
+          </p>
+          <br>
+          <input type="radio" name="class" value="Oath of the Ancients">Oath of the Ancients (PHB p.86)<br>
+          <input type="radio" name="class" value="Oath of Conquest">Oath of Conquest (XGtE p.37)<br>
+          <input type="radio" name="class" value="Oath of the Crown">Oath of the Crown (SCAG p.132)<br>
+          <input type="radio" name="class" value="Oath of Devotion">Oath of Devotion (PHB p.85)<br>
+          <input type="radio" name="class" value="Oath of Redemption">Oath of Redemption (XGtE p.38)<br>
+          <input type="radio" name="class" value="Oath of Treachery ">Oath of Treachery "(UA: Paladin: Sacred Oaths)<br>
+          <input type="radio" name="class" value="Oath of Vengeance ">Oath of Vengeance (PHB p.87)<br>
+          <input type="radio" name="class" value="Oathbreaker">Oathbreaker (DMG p.97)<br> </div>
+        <div class="classpick" id="Ranger">
+          <p class="classname">
+            Ranger
+          </p>
+          <br>
+          <input type="radio" name="class" value="Beast Master">Beast Master (PHB p.93)<br>
+          <input type="radio" name="class" value="Gloom Stalker">Gloom Stalker (XGtE p.41)<br>
+          <input type="radio" name="class" value="Horizon Walker">Horizon Walker (XGtE p.42)<br>
+          <input type="radio" name="class" value="Hunter">Hunter (PHB p.93)<br>
+          <input type="radio" name="class" value="Monster Slayer">Monster Slayer (XGtE p.43)<br>
+          <input type="radio" name="class" value="Primeval Guardian"> Primeval Guardian (UA: Ranger and Rogue)<br> </div>
+        <div class="classpick" id="Rogue">
+          <p class="classname">
+            Rogue
+          </p>
+          <br>
+          <input type="radio" name="class" value="Arcane Trickster">Arcane Trickster (PHB p.97)<br>
+          <input type="radio" name="class" value="Assassin">Assassin (PHB p.97)<br>
+          <input type="radio" name="class" value="Inquisitive">Inquisitive (XGtE p.45)<br>
+          <input type="radio" name="class" value="Mastermind">Mastermind (SCAG p.135, XGtE p.46)<br>
+          <input type="radio" name="class" value="Scout">Scout (XGtE p.47)<br>
+          <input type="radio" name="class" value="Swashbuckler">Swashbuckler (SCAG p.135, XGtE p.47)<br>
+          <input type="radio" name="class" value="Thief">Thief (PHB p.97)<br>
+        </div>
+        <div class="classpick" id="Sorcerer">
+          <p class="classname">
+            Sorcerer
+          </p>
+          <br>
+          <input type="radio" name="class" value="Divine Soul">Divine Soul (XGtE p.50)<br>
+          <input type="radio" name="class" value="Draconic Bloodline">Draconic Bloodline (PHB p.102)<br>
+          <input type="radio" name="class" value="Phoenix Sorcery">Phoenix Sorcery (UA: Sorcery)<br>
+          <input type="radio" name="class" value="Sea Sorcery">Sea Sorcery (UA: Sorcery)<br>
+          <input type="radio" name="class" value="Shadow Magic">Shadow Magic (XGtE p.50)<br>
+          <input type="radio" name="class" value="Stone Sorcery">Stone Sorcery (UA: Sorcery)<br>
+          <input type="radio" name="class" value="Storm Sorcery">Storm Sorcery (SCAG p.137, XGtE p.51)<br>
+          <input type="radio" name="class" value="Wild Magic">Wild Magic (PHB p.103)<br> </div>
+        <div class="classpick" id="Warlock">
+          <p class="classname">
+            Warlock
+          </p>
+          <br>
+          <input type="radio" name="class" value="The Archfey">The Archfey (PHB p.108)<br>
+          <input type="radio" name="class" value="The Celestial">The Celestial (XGtE p.54)<br>
+          <input type="radio" name="class" value="The Fiend">The Fiend (PHB p.109)<br>
+          <input type="radio" name="class" value="The Great Old One">The Great Old One (PHB p.109)<br>
+          <input type="radio" name="class" value="The Hexblade">The Hexblade (XGtE p.55)<br>
+          <input type="radio" name="class" value="The Raven Queen">The Raven Queen (UA: Warlock and Wizard)<br>
+          <input type="radio" name="class" value="The Seeker">The Seeker (UA: The Faithful)<br>
+          <input type="radio" name="class" value="The Undying">The Undying (SCAG p.139)<br> </div>
+        <div class="classpick" id="Wizard">
+          <p class="classname">
+            Wizard
+          </p>
+          <br>
+          <input type="radio" name="class" value="Bladesinging">Bladesinging (SCAG p.141)<br>
+          <input type="radio" name="class" value="Lore Mastery">Lore Mastery (UA: Warlock and Wizard)<br>
+          <input type="radio" name="class" value="School of Abjuration">School of Abjuration (PHB p.115)<br>
+          <input type="radio" name="class" value="School of Conjuration">School of Conjuration (PHB p.116)<br>
+          <input type="radio" name="class" value="School of Divination">School of Divination (PHB p.116)<br>
+          <input type="radio" name="class" value="School of Enchantment">School of Enchantment (PHB p.117)<br>
+          <input type="radio" name="class" value="School of Evocation">School of Evocation (PHB p.117)<br>
+          <input type="radio" name="class" value="School of Illusion">School of Illusion (PHB p.118)<br>
+          <input type="radio" name="class" value="School of Invention ">School of Invention(UA: Three Subclasses)<br>
+          <input type="radio" name="class" value="School of Necromancy">School of Necromancy (PHB p.118)<br>
+          <input type="radio" name="class" value="School of Transmutation">School of Transmutation (PHB p.119)<br>
+          <input type="radio" name="class" value="Theurgy">Theurgy (UA: Wizard Revisited)<br>
+          <input type="radio" name="class" value="War Magic">War Magic (XGtE p.59)<br>
+        </div>
       </div>
-    </div>
-    <div id="steptwo">
-      <div id= "wrapper-race">
-    <select id="dropdown" size= "12">
+      <div class="steptwo">
+        <div id="wrap-race">
+          Race<br>
+          <select id="dropdown" size="12">
         <option name="race-select" value="Aarakocra"><p class= "race-select">Aarakocra</p></option>
         <option name="race-select" value="Aasimar"><p class= "race-select">Aasimar</p></option>
         <option name="race-select" value="Aetherborn"><p class= "race-select">Aetherborn</p></option>
@@ -288,9 +235,10 @@ Theurgy">Theurgy (UA: Wizard Revisited)<br>
         <option name="race-select" value="Warforged"><p class= "race-select">Warforged</p></option>
         <option name="race-select" value="Yuan"><p class= "race-select">Yuan</p></option>-Ti Pureblood
     </select>
-  </div>
-  <div id="wrap-background">
-    <select id="dropdown-background" size= "12">
+        </div>
+        <div id="wrap-background">
+          Background <br>
+          <select id="dropdown-background" size="12">
         <option name = "background-select" value="Acolyte"><p class="background-select">Acolyte</p></option>
         <option name = "background-select" value="Charlatan"><p class="background-select">Charlatan</p></option>
         <option name = "background-select" value="Criminal"><p class="background-select">Criminal</p></option>
@@ -310,21 +258,40 @@ Theurgy">Theurgy (UA: Wizard Revisited)<br>
         <option name = "background-select" value="Spy"><p class="background-select">Spy</p></option>
         <option name = "background-select" value="Urchin"><p class="background-select">Urchin</p></option>
     </select>
-  </div>
-  </div>
+        </div>
+      </div>
+      <div class="wrap-shop">
+        <br>
 
-    <br> add a table of shop contents here
 
-    <p> Money to be spent in the shop</p>
-    <label id="number-label"> Money to be spent in the shop</label>
-    <input id="number" type="number" step="0.1" placeholder="Min: 0Gp, max: 350Gp" min = "0" max="350">
-    <input id ="shoping-list" type="text" placeholder="Two bottles of ale">
-    <label id="email-label"> Email:</label>
-    <input name="email" id="email" type="email" pattern="+@+" placeholder="email or discord" required>
 
-    <label for="story-extra">So what's your story?</label>
-    <textarea id="story-extra" name="advanced +1" maxlength="2000" rows="16"
-                  wrap="hard">
+<input type="checkbox" name="purchase" value="Arcane Scroll (Cause Fear (25 gp), Eagle's Splendor (150 gp), Gust of Wind (150 gp)) (total 325 gp)">Arcane Scroll (Cause Fear (25 gp), Eagle's Splendor (150 gp), Gust of Wind (150 gp)) (total 325 gp)<br>
+<input type="checkbox" name="purchase" value="Divine Scroll (Bear's Endurance (150 gp)) (total 150 gp)">Divine Scroll (Bear's Endurance (150 gp)) (total 150 gp)<br>
+<input type="checkbox" name="purchase" value="Chain Shirt (Small) (+1 armor) (1250 gp)">Chain Shirt (Small) (+1 armor) (1250 gp)<br>
+<input type="checkbox" name="purchase" value="Darkwood Buckler (205 gp) (Small)">Darkwood Buckler (205 gp) (Small)<br>
+<input type="checkbox" name="purchase" value="Potion of Cure Serious Wounds (750 gp)">Potion of Cure Serious Wounds (750 gp)<br>
+<input type="checkbox" name="purchase" value="Potion of Fox's Cunning (300 gp)">Potion of Fox's Cunning (300 gp)<br>
+<input type="checkbox" name="purchase" value="Potion of Mage Armor (50 gp)">Potion of Mage Armor (50 gp)<br>
+<input type="checkbox" name="purchase" value="Potion of Magic Fang (50 gp)">Potion of Magic Fang (50 gp)<br>
+<input type="checkbox" name="purchase" value="Food (0.05 gp)">Food (0.05 gp)<br>
+<input type="checkbox" name="purchase" value="Sweets (0.1 gp)">Sweets (0.1 gp)<br>
+<input type="checkbox" name="purchase" value="Ale (0.05 gp)">Ale (0.05 gp)<br>
+<input type="checkbox" name="purchase" value="Dagger (2 gp)">Dagger (2 gp)<br>
+<input type="checkbox" name="purchase" value="Shield (15 gp)">Shield (15 gp)<br>
+
+
+
+        <label id="number-label"> Money to be spent in the shop</label>
+        <input id="number" type="number" step="0.05" placeholder="0Gp- 350Gp" min="0" max="350"><br>
+        List of purchases:<input id="shoping-list" type="text" placeholder="Two bottles of ale"><br>
+      </div>
+      <div class="wrap-email">
+        <label id="email-label"> Email:</label>
+        <input name="email" id="email" type="email" pattern="+@+" placeholder="email or discord" required><br>
+      </div>
+      <div class="wrap-extra">
+      <label for="story-extra">So what's your story?</label><br>
+      <textarea id="story-extra" name="advanced +1" maxlength="2000" rows="16" cols="100" wrap="hard">
     1. Who are you? (Your origins) What is your name? Is it known to other people or are you called that way only by your close relatives, giving other name publicly? What is your race? Are you proud of your race or you don’t seem to divide people by them, or, at least, don’t give it significance? How old are you?
     2. What is your background? (Your ties to the world) Do you have a family you grew in or started yourself or are you an orphan, refugee or apprentice? Who and how did they raise you? Are they far from here? Do you have a way to keep in touch? Are they settled down or somewhere out in the world? Are you aiming to meet them? Do they know why you left? (Backgrounds for ideas)
     3. How do you look? (Your appearance) What is your physical appearance? Height, weight, build? What do you wear (Any of the kits or your own outfit)? Do you have anything that makes you distinguishable? Piercing, jewelry, beard, tattoos, missing limbs, scars, bald head, a sigil on your coat or coat of arms on your shield? Do they mean anything to you or your background or are they just decorations? Do they have any significance in the world?
@@ -333,12 +300,14 @@ Theurgy">Theurgy (UA: Wizard Revisited)<br>
     6. What is your character? (Your role-play) What are your goals, ideals, beliefs, religion, wishes, bonds, flaws, quirks, weaknesses?  Do people see you as talkative, happy, hot-headed, cold-hearted, reserved or detached?
     7. Why are you here? (Your ties to the story) Why have you left what you had for adventuring? A personal or guild quest, search for something important, wanderlust, hunt for fortune, a service, a deed or something else? Or maybe you only dream of starting to do something of the previously mentioned?
     8. What people speak of you? (Your representation) What are two positive, two negative and one fake rumor, that people speak of you? (You can use the answers from before or think of something new: your stats, your deeds, your companionship, your training, your horse, etc.)
-                </textarea>
+  </textarea><br>
 
-  <input type="button" id="submit"><p id="button-text">Create This Character</p>
-  </form>
+  </div>
+    <div id="submit-button">
+      <button id="submit" type="submit">Submit</button>
+      </div>
 
-  </form>
-</div>
+    </form>
+  </div>
 </body>
 </html>

@@ -6,10 +6,12 @@ body{
   text-align:center;
   font-color:#131313;
 }
+
 #description{
   text-align:center;
   font-color:#131313;
 }
+
 #main{
   width:95%;
   margin:50px 30px 40px 30px;
@@ -33,14 +35,12 @@ body{
   justify-content: center;
 }
 
-
 #charNameContain{
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
-
 
 .classwrapper{
   display:grid;
@@ -113,4 +113,43 @@ body{
 #Wizard{
   background-color:#222299;
   color:#111111;
+}
+
+.steptwo{
+  margin-top : 30px;
+display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: center;
+}
+
+#wrap-race{
+  margin:2px;
+  padding:5px;
+  background-color:#111111;
+  color:#999999
+}
+
+#wrap-background{
+  margin:2px;
+  padding:5px;
+  background-color:#111111;
+  color:#999999
+}
+
+
+
+.wrap-shop{
+  border: outset gold 25px;
+  padding:35px;
+}
+.wrap-email{
+  text-align:center;
+}
+.wrap-extra{
+  text-align:center;
+}
+
+#submit-button{
+  text-align:center;
 }
