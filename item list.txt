@@ -1,0 +1,1533 @@
+
+Abacus
+Adventuring Gear
+Acid
+Adventuring Gear (Consumable)
+Adamantine Armor
+Armor (medium or heavy, but not hide)
+Alchemist's Fire
+Adventuring Gear (Consumable)
+Alchemist's Supplies
+Adventuring Gear (Artisan's Tools)
+Amulet
+Adventuring Gear (Neck)
+Amulet of Health
+Adventuring Gear (Wondrous Item, Neck)
+Amulet of Proof against Detection and Location
+Adventuring Gear (Wondrous Item, Neck)
+Amulet of the Planes
+Adventuring Gear (Wondrous Item, Neck)
+Animated Shield
+Shield (Shield)
+Antitoxin
+Adventuring Gear (Consumable)
+Apparatus of the Crab
+Adventuring Gear (Wondrous Item)
+Armor of Invulnerability
+Heavy Armor (Armor)
+Armor of Vulnerability
+Heavy Armor (Cursed Item, Armor)
+Arrow of Slaying
+Ammunition (Ammunition)
+Arrow-Catching Shield
+Shield (Shield)
+Arrows
+Ammunition (Ammunition)
+Arrows +1
+Ammunition
+Arrows +2
+Ammunition
+Arrows +3
+Ammunition
+Backpack
+Adventuring Gear (Container)
+Bag of Beans
+Adventuring Gear (Wondrous Item)
+Bag of Devouring
+Adventuring Gear (Wondrous Item)
+Bag of Holding
+Adventuring Gear (Wondrous Item)
+Bag of Tricks
+Adventuring Gear (Wondrous Item)
+Bagpipes
+Adventuring Gear (Musical Instrument)
+Ball bearings
+Adventuring Gear
+Barrel
+Adventuring Gear
+Basic poison
+Adventuring Gear (Consumable)
+Basket
+Adventuring Gear (Container)
+Battleaxe
+Melee Weapon (Martial, Axe)
+Battleaxe +1
+Melee Weapon
+Battleaxe +2
+Melee Weapon
+Battleaxe +3
+Melee Weapon
+Bead of Force
+Adventuring Gear (Wondrous Item)
+Bedroll
+Adventuring Gear
+Bell
+Adventuring Gear
+Belt of Dwarvenkind
+Adventuring Gear (Wondrous Item, Belt)
+Belt of Giant Strength
+Adventuring Gear (Wondrous Item, Belt)
+Berserker Axe
+Weapon (any axe)
+Blanket
+Adventuring Gear
+Block and tackle
+Adventuring Gear
+Blowgun
+Ranged Weapon (Martial, Blowgun)
+Blowgun +1
+Ranged Weapon
+Blowgun +2
+Ranged Weapon
+Blowgun +3
+Ranged Weapon
+Blowgun Needles
+Ammunition (Ammunition)
+Book
+Adventuring Gear
+Boots of Elvenkind
+Adventuring Gear (Wondrous Item, Feet)
+Boots of Levitation
+Adventuring Gear (Wondrous Item, Feet)
+Boots of Speed
+Adventuring Gear (Wondrous Item, Feet)
+Boots of Striding and Springing
+Adventuring Gear (Wondrous Item, Feet)
+Boots of the Winterlands
+Adventuring Gear (Wondrous Item, Feet)
+Bowl of Commanding Water Elementals
+Adventuring Gear (Wondrous Item)
+Bracers of Archery
+Adventuring Gear (Wondrous Item, Arms)
+Bracers of Defense
+Adventuring Gear (Wondrous Item, Arms)
+Brazier of Commanding Fire Elementals
+Adventuring Gear (Wondrous Item)
+Breastplate
+Medium Armor (Armor)
+Breastplate +1
+Medium Armor
+Breastplate +2
+Medium Armor
+Breastplate +3
+Medium Armor
+Breastplate of Acid Resistance
+Medium Armor
+Breastplate of Cold Resistance
+Medium Armor
+Breastplate of Fire Resistance
+Medium Armor
+Breastplate of Force Resistance
+Medium Armor
+Breastplate of Lightning Resistance
+Medium Armor
+Breastplate of Necrotic Resistance
+Medium Armor
+Breastplate of Poison Resistance
+Medium Armor
+Breastplate of Psychic Resistance
+Medium Armor
+Breastplate of Radiant Resistance
+Medium Armor
+Breastplate of Thunder Resistance
+Medium Armor
+Brewer's Supplies
+Adventuring Gear (Artisan's Tools)
+Brooch of Shielding
+Adventuring Gear (Wondrous Item)
+Broom of Flying
+Adventuring Gear (Wondrous Item)
+Bucket
+Adventuring Gear
+Bullseye lantern
+Adventuring Gear
+Burglar's Pack
+(Equipment Pack)
+Calligrapher's Supplies
+Adventuring Gear (Artisan's Tools)
+Caltrops
+Adventuring Gear
+Candle
+Adventuring Gear
+Candle of Invocation
+Adventuring Gear (Wondrous Item)
+Cape of the Mountebank
+Adventuring Gear (Wondrous Item, Shoulders, Cape)
+Carpenter's Tools
+Adventuring Gear (Artisan's Tools)
+Carpet of Flying
+Adventuring Gear (Wondrous Item)
+Cartographer's Tools
+Adventuring Gear (Artisan's Tools)
+Censer of Controlling Air Elementals
+Adventuring Gear (Wondrous Item)
+Chain
+Adventuring Gear
+Chain Mail
+Heavy Armor (Armor)
+Chain Mail +1
+Heavy Armor
+Chain Mail +2
+Heavy Armor
+Chain Mail +3
+Heavy Armor
+Chain Mail of Acid Resistance
+Heavy Armor
+Chain Mail of Cold Resistance
+Heavy Armor
+Chain Mail of Fire Resistance
+Heavy Armor
+Chain Mail of Force Resistance
+Heavy Armor
+Chain Mail of Lightning Resistance
+Heavy Armor
+Chain Mail of Necrotic Resistance
+Heavy Armor
+Chain Mail of Poison Resistance
+Heavy Armor
+Chain Mail of Psychic Resistance
+Heavy Armor
+Chain Mail of Radiant Resistance
+Heavy Armor
+Chain Mail of Thunder Resistance
+Heavy Armor
+Chain Shirt
+Medium Armor (Armor)
+Chain Shirt +1
+Medium Armor
+Chain Shirt +2
+Medium Armor
+Chain Shirt +3
+Medium Armor
+Chain Shirt of Acid Resistance
+Medium Armor
+Chain Shirt of Cold Resistance
+Medium Armor
+Chain Shirt of Fire Resistance
+Medium Armor
+Chain Shirt of Force Resistance
+Medium Armor
+Chain Shirt of Lightning Resistance
+Medium Armor
+Chain Shirt of Necrotic Resistance
+Medium Armor
+Chain Shirt of Poison Resistance
+Medium Armor
+Chain Shirt of Psychic Resistance
+Medium Armor
+Chain Shirt of Radiant Resistance
+Medium Armor
+Chain Shirt of Thunder Resistance
+Medium Armor
+Chalk
+Adventuring Gear
+Chest
+Adventuring Gear
+Chime of Opening
+Adventuring Gear (Wondrous Item)
+Circlet of Blasting
+Adventuring Gear (Wondrous Item, Head)
+Climber's kit
+Adventuring Gear
+Cloak of Arachnida
+Adventuring Gear (Wondrous Item, Shoulders)
+Cloak of Displacement
+Adventuring Gear (Wondrous Item, Shoulders)
+Cloak of Elvenkind
+Adventuring Gear (Wondrous Item, Shoulders)
+Cloak of Protection
+Adventuring Gear (Wondrous Item, Shoulders)
+Cloak of the Bat
+Adventuring Gear (Wondrous Item, Shoulders)
+Cloak of the Manta Ray
+Adventuring Gear (Wondrous Item, Shoulders)
+Club
+Melee Weapon (Simple)
+Club +1
+Melee Weapon
+Club +2
+Melee Weapon
+Club +3
+Melee Weapon
+Cobbler's Tools
+Adventuring Gear (Artisan's Tools)
+Common clothes
+Adventuring Gear (Clothing)
+Component pouch
+Adventuring Gear
+Cook's utensils
+Adventuring Gear (Artisan's Tools)
+Costume clothes
+Adventuring Gear (Clothing)
+Crossbow bolt case
+Adventuring Gear
+Crossbow bolts
+Ammunition (Ammunition)
+Crowbar
+Adventuring Gear
+Crystal
+Adventuring Gear (Arcane Focus)
+Crystal Ball
+Adventuring Gear (Wondrous Item)
+Cube of Force
+Adventuring Gear (Wondrous Item)
+Cubic Gate
+Adventuring Gear (Wondrous Item)
+Dagger
+Melee Weapon (Simple, Dagger)
+Dagger +1
+Melee Weapon
+Dagger +2
+Melee Weapon
+Dagger +3
+Melee Weapon
+Dagger of Venom
+Melee Weapon (Simple, Dagger)
+Dancing Sword
+Weapon (any sword) (Sword)
+Dart
+Ranged Weapon (Simple)
+Dart +1
+Ranged Weapon
+Dart +2
+Ranged Weapon
+Dart +3
+Ranged Weapon
+Decanter of Endless Water
+Adventuring Gear (Wondrous Item)
+Deck of Illusions
+Adventuring Gear (Wondrous Item)
+Deck of Many Things
+Adventuring Gear (Wondrous Item)
+Defender
+Weapon (any sword) (Sword)
+Demon Armor
+Heavy Armor (Cursed Item, Armor)
+Dice set
+Adventuring Gear (Gaming Set)
+Dimensional Shackles
+Adventuring Gear (Wondrous Item)
+Diplomat's Pack
+(Equipment Pack)
+Disguise kit
+Adventuring Gear (Artisan's Tools)
+Dragon Scale Mail
+Medium Armor
+Dragon Slayer
+Weapon (any sword) (Sword)
+Drum
+Adventuring Gear (Musical Instrument)
+Dulcimer
+Adventuring Gear (Musical Instrument)
+Dungeoneer's Pack
+(Equipment Pack)
+Dust of Disappearance
+Adventuring Gear (Wondrous Item)
+Dust of Dryness
+Adventuring Gear (Wondrous Item)
+Dust of Sneezing and Choking
+Adventuring Gear (Wondrous Item)
+Dwarven Plate
+Heavy Armor (Armor)
+Dwarven Thrower
+Melee Weapon
+Efficient Quiver
+Adventuring Gear (Wondrous Item)
+Efreeti Bottle
+Adventuring Gear (Wondrous Item)
+Elemental Gem
+Adventuring Gear
+Elven Chain
+Medium Armor (Armor)
+Embelm
+Adventuring Gear
+Emblem
+Adventuring Gear
+Entertainer's Pack
+(Equipment Pack)
+Eversmoking Bottle
+Adventuring Gear (Wondrous Item)
+Explorer's Pack
+(Equipment Pack)
+Eyes of Charming
+Adventuring Gear (Wondrous Item, Eyes)
+Eyes of Minute Seeing
+Adventuring Gear (Wondrous Item, Eyes)
+Eyes of the Eagle
+Adventuring Gear (Wondrous Item, Eyes)
+Feather Token
+Adventuring Gear
+Figurine of Wondrous Power
+Adventuring Gear
+Fine clothes
+Adventuring Gear (Clothing)
+Fishing tackle
+Adventuring Gear
+Flail
+Melee Weapon (Martial, Flail)
+Flail +1
+Melee Weapon
+Flail +2
+Melee Weapon
+Flail +3
+Melee Weapon
+Flame Tongue
+Weapon (any sword)
+Flask
+Adventuring Gear
+Flute
+Adventuring Gear (Musical Instrument)
+Folding Boat
+Adventuring Gear (Wondrous Item)
+Forgery kit
+Adventuring Gear (Artisan's Tools)
+Frost Brand
+Weapon (any sword)
+Gauntlets of Ogre Power
+Adventuring Gear (Wondrous Item, Hands)
+Gem of Brightness
+Adventuring Gear (Wondrous Item)
+Gem of Seeing
+Adventuring Gear (Wondrous Item)
+Giant Slayer
+Weapon (any axe or sword)
+Glaive
+Melee Weapon (Martial, Glaive)
+Glaive +1
+Melee Weapon
+Glaive +2
+Melee Weapon
+Glaive +3
+Melee Weapon
+Glamoured Studded Leather
+Light Armor (Armor)
+Glass bottle
+Adventuring Gear
+Glassblower's Tools
+Adventuring Gear (Artisan's Tools)
+Gloves of Missile Snaring
+Adventuring Gear (Wondrous Item, Hands)
+Gloves of Swimming and Climbing
+Adventuring Gear (Wondrous Item, Hands)
+Goggles of Night
+Adventuring Gear (Wondrous Item, Eyes)
+Grappling hook
+Adventuring Gear
+Greataxe
+Melee Weapon (Martial, Axe)
+Greataxe +1
+Melee Weapon
+Greataxe +2
+Melee Weapon
+Greataxe +3
+Melee Weapon
+Greatclub
+Melee Weapon (Simple, Club)
+Greatclub +1
+Melee Weapon
+Greatclub +2
+Melee Weapon
+Greatclub +3
+Melee Weapon
+Greatsword
+Melee Weapon (Martial, Sword)
+Greatsword +1
+Melee Weapon
+Greatsword +2
+Melee Weapon
+Greatsword +3
+Melee Weapon
+Halberd
+Melee Weapon (Martial, Halberd)
+Halberd +1
+Melee Weapon
+Halberd +2
+Melee Weapon
+Halberd +3
+Melee Weapon
+Half Plate
+Medium Armor (Armor)
+Half Plate Armor +1
+Medium Armor
+Half Plate Armor +2
+Medium Armor
+Half Plate Armor +3
+Medium Armor
+Half Plate Armor of Acid Resistance
+Medium Armor
+Half Plate Armor of Cold Resistance
+Medium Armor
+Half Plate Armor of Fire Resistance
+Medium Armor
+Half Plate Armor of Force Resistance
+Medium Armor
+Half Plate Armor of Lightning Resistance
+Medium Armor
+Half Plate Armor of Necrotic Resistance
+Medium Armor
+Half Plate Armor of Poison Resistance
+Medium Armor
+Half Plate Armor of Psychic Resistance
+Medium Armor
+Half Plate Armor of Radiant Resistance
+Medium Armor
+Half Plate Armor of Thunder Resistance
+Medium Armor
+Hammer
+Adventuring Gear
+Hammer of Thunderbolts
+Melee Weapon (Martial, Maul, Hammer)
+Hand Crossbow
+Ranged Weapon (Martial, Crossbow)
+Hand Crossbow +1
+Ranged Weapon
+Hand Crossbow +2
+Ranged Weapon
+Hand Crossbow +3
+Ranged Weapon
+Handaxe
+Melee Weapon (Simple, Axe)
+Handaxe +1
+Melee Weapon
+Handaxe +2
+Melee Weapon
+Handaxe +3
+Melee Weapon
+Handy Haversack
+Adventuring Gear (Wondrous Item)
+Hat of Disguise
+Adventuring Gear (Wondrous Item, Head)
+Headband of Intellect
+Adventuring Gear (Wondrous Item, Head)
+Healer's kit
+Adventuring Gear
+Heartstone
+Adventuring Gear (Wondrous Item)
+Heavy Crossbow
+Ranged Weapon (Martial, Crossbow)
+Heavy Crossbow +1
+Ranged Weapon
+Heavy Crossbow +2
+Ranged Weapon
+Heavy Crossbow +3
+Ranged Weapon
+Helm of Brilliance
+Adventuring Gear (Wondrous Item, Head)
+Helm of Comprehending Languages
+Adventuring Gear (Wondrous Item, Head)
+Helm of Telepathy
+Adventuring Gear (Wondrous Item, Head)
+Helm of Teleportation
+Adventuring Gear (Wondrous Item, Head)
+Hempen rope
+Adventuring Gear
+Herbalism kit
+Adventuring Gear
+Hide Armor
+Medium Armor (Armor)
+Hide Armor +1
+Medium Armor
+Hide Armor +2
+Medium Armor
+Hide Armor +3
+Medium Armor
+Hide Armor of Acid Resistance
+Medium Armor
+Hide Armor of Cold Resistance
+Medium Armor
+Hide Armor of Fire Resistance
+Medium Armor
+Hide Armor of Force Resistance
+Medium Armor
+Hide Armor of Lightning Resistance
+Medium Armor
+Hide Armor of Necrotic Resistance
+Medium Armor
+Hide Armor of Poison Resistance
+Medium Armor
+Hide Armor of Psychic Resistance
+Medium Armor
+Hide Armor of Radiant Resistance
+Medium Armor
+Hide Armor of Thunder Resistance
+Medium Armor
+Holy Avenger
+Weapon (any sword)
+Holy Water
+Adventuring Gear (Consumable)
+Hooded lantern
+Adventuring Gear
+Horn
+Adventuring Gear (Musical Instrument)
+Horn of Blasting
+Adventuring Gear (Wondrous Item)
+Horn of Valhalla
+Adventuring Gear (Wondrous Item)
+Horseshoes of Speed
+Adventuring Gear (Wondrous Item)
+Horseshoes of a Zephyr
+Adventuring Gear (Wondrous Item)
+Hourglass
+Adventuring Gear
+Hunting trap
+Adventuring Gear
+Immovable Rod
+Adventuring Gear (Rod)
+Ink
+Adventuring Gear
+Ink pen
+Adventuring Gear
+Instant Fortress
+Adventuring Gear (Wondrous Item)
+Ioun Stone
+Wondrous
+Iron Bands of Binding
+Adventuring Gear (Wondrous Item)
+Iron Flask
+Adventuring Gear (Wondrous Item)
+Iron pot
+Adventuring Gear
+Iron spikes
+Adventuring Gear
+Javelin
+Melee Weapon (Simple, Javelin)
+Javelin +1
+Melee Weapon
+Javelin +2
+Melee Weapon
+Javelin +3
+Melee Weapon
+Javelin of Lightning
+Melee Weapon (Simple, Javelin)
+Jeweler's Tools
+Adventuring Gear (Artisan's Tools)
+Jug
+Adventuring Gear
+Ladder
+Adventuring Gear
+Lamp
+Adventuring Gear
+Lance
+Melee Weapon (Martial, Lance)
+Lance +1
+Melee Weapon
+Lance +2
+Melee Weapon
+Lance +3
+Melee Weapon
+Lantern of Revealing
+Adventuring Gear (Wondrous Item)
+Leather Armor
+Light Armor (Armor)
+Leather Armor +1
+Light Armor
+Leather Armor +2
+Light Armor
+Leather Armor +3
+Light Armor
+Leather Armor of Acid Resistance
+Light Armor
+Leather Armor of Cold Resistance
+Light Armor
+Leather Armor of Fire Resistance
+Light Armor
+Leather Armor of Force Resistance
+Light Armor
+Leather Armor of Lightning Resistance
+Light Armor
+Leather Armor of Necrotic Resistance
+Light Armor
+Leather Armor of Poison Resistance
+Light Armor
+Leather Armor of Psychic Resistance
+Light Armor
+Leather Armor of Radiant Resistance
+Light Armor
+Leather Armor of Thunder Resistance
+Light Armor
+Leatherworker's Tools
+Adventuring Gear (Artisan's Tools)
+Light Crossbow
+Ranged Weapon (Simple, Crossbow)
+Light Crossbow +1
+Ranged Weapon
+Light Crossbow +2
+Ranged Weapon
+Light Crossbow +3
+Ranged Weapon
+Light Hammer
+Melee Weapon (Simple, Hammer)
+Lock
+Adventuring Gear
+Longbow
+Ranged Weapon (Martial, Bow)
+Longbow +1
+Ranged Weapon
+Longbow +2
+Ranged Weapon
+Longbow +3
+Ranged Weapon
+Longsword
+Melee Weapon (Martial, Sword)
+Longsword +1
+Melee Weapon
+Longsword +2
+Melee Weapon
+Longsword +3
+Melee Weapon
+Luck Blade
+Sword
+Lute
+Adventuring Gear (Musical Instrument)
+Lyre
+Adventuring Gear (Musical Instrument)
+Mace
+Melee Weapon (Simple, Mace)
+Mace +1
+Melee Weapon
+Mace +2
+Melee Weapon
+Mace +3
+Melee Weapon
+Mace of Disruption
+Melee Weapon (Simple, Mace)
+Mace of Smiting
+Melee Weapon (Simple, Mace)
+Mace of Terror
+Melee Weapon (Simple, Mace)
+Magnifying glass
+Adventuring Gear
+Manacles
+Adventuring Gear
+Mantle of Spell Resistance
+Adventuring Gear (Wondrous Item, Shoulders)
+Manual of Bodily Health
+Adventuring Gear (Wondrous Item)
+Manual of Gainful Exercise
+Adventuring Gear (Wondrous Item)
+Manual of Golems
+Adventuring Gear (Wondrous Item)
+Manual of Quickness of Action
+Adventuring Gear (Wondrous Item)
+Map or scroll case
+Adventuring Gear
+Marvelous Pigments
+Adventuring Gear (Wondrous Item)
+Mason's Tools
+Adventuring Gear (Artisan's Tools)
+Maul
+Melee Weapon (Martial, Maul)
+Maul +1
+Melee Weapon
+Maul +2
+Melee Weapon
+Maul +3
+Melee Weapon
+Medallion of Thoughts
+Adventuring Gear (Wondrous Item, Neck)
+Merchant's scale
+Adventuring Gear
+Mess kit
+Adventuring Gear
+Miner's pick
+Adventuring Gear
+Mirror of Life Trapping
+Adventuring Gear (Wondrous Item)
+Mithral Armor
+Armor
+Morningstar
+Melee Weapon (Martial, Morningstar)
+Morningstar +1
+Melee Weapon
+Morningstar +2
+Melee Weapon
+Morningstar +3
+Melee Weapon
+Navigator's Tools
+Adventuring Gear
+Necklace of Adaptation
+Adventuring Gear (Wondrous Item, Neck)
+Necklace of Fireballs
+Adventuring Gear (Wondrous Item, Neck)
+Necklace of Prayer Beads
+Adventuring Gear (Wondrous Item, Neck)
+Net
+Ranged Weapon (Martial, Net)
+Net +1
+Ranged Weapon
+Net +2
+Ranged Weapon
+Net +3
+Ranged Weapon
+Nine Lives Stealer
+Sword
+Oathbow
+Ranged Weapon (Martial, Bow)
+Oil
+Adventuring Gear
+Oil of Etherealness
+Adventuring Gear (Potion)
+Oil of Sharpness
+Adventuring Gear (Potion)
+Oil of Slipperiness
+Adventuring Gear (Potion)
+Orb
+Adventuring Gear (Arcane Focus)
+Orb of Dragonkind
+Adventuring Gear (Wondrous Item, Artifact)
+Padded Armor
+Light Armor (Armor)
+Padded Armor +1
+Light Armor
+Padded Armor +2
+Light Armor
+Padded Armor +3
+Light Armor
+Padded Armor of Acid Resistance
+Light Armor
+Padded Armor of Cold Resistance
+Light Armor
+Padded Armor of Fire Resistance
+Light Armor
+Padded Armor of Force Resistance
+Light Armor
+Padded Armor of Lightning Resistance
+Light Armor
+Padded Armor of Necrotic Resistance
+Light Armor
+Padded Armor of Poison Resistance
+Light Armor
+Padded Armor of Psychic Resistance
+Light Armor
+Padded Armor of Radiant Resistance
+Light Armor
+Padded Armor of Thunder Resistance
+Light Armor
+Painter's Supplies
+Adventuring Gear (Artisan's Tools)
+Pan flute
+Adventuring Gear (Musical Instrument)
+Paper
+Adventuring Gear
+Parchment
+Adventuring Gear
+Pearl of Power
+Adventuring Gear (Wondrous Item)
+Perfume
+Adventuring Gear
+Periapt of Health
+Adventuring Gear (Wondrous Item, Neck)
+Periapt of Proof against Poison
+Adventuring Gear (Wondrous Item, Neck)
+Periapt of Wound Closure
+Adventuring Gear (Wondrous Item, Neck)
+Philter of Love
+Adventuring Gear (Potion)
+Pike
+Melee Weapon (Martial, Pike)
+Pike +1
+Melee Weapon
+Pike +2
+Melee Weapon
+Pike +3
+Melee Weapon
+Pipes of Haunting
+Adventuring Gear (Wondrous Item, Musical Instrument)
+Pipes of the Sewers
+Adventuring Gear (Wondrous Item, Musical Instrument)
+Piton
+Adventuring Gear
+Plate Armor
+Heavy Armor (Armor)
+Plate Armor +1
+Heavy Armor
+Plate Armor +2
+Heavy Armor
+Plate Armor +3
+Heavy Armor
+Plate Armor of Acid Resistance
+Heavy Armor
+Plate Armor of Cold Resistance
+Heavy Armor
+Plate Armor of Etherealness
+Heavy Armor (Armor)
+Plate Armor of Fire Resistance
+Heavy Armor
+Plate Armor of Force Resistance
+Heavy Armor
+Plate Armor of Lightning Resistance
+Heavy Armor
+Plate Armor of Necrotic Resistance
+Heavy Armor
+Plate Armor of Poison Resistance
+Heavy Armor
+Plate Armor of Psychic Resistance
+Heavy Armor
+Plate Armor of Radiant Resistance
+Heavy Armor
+Plate Armor of Thunder Resistance
+Heavy Armor
+Playing card set
+Adventuring Gear (Gaming Set)
+Poisoner's kit
+Adventuring Gear
+Pole
+Adventuring Gear
+Portable Hole
+Adventuring Gear (Wondrous Item)
+Portable ram
+Adventuring Gear
+Potion of Acid Resistance
+Potion
+Potion of Animal Friendship
+Adventuring Gear (Potion)
+Potion of Clairvoyance
+Adventuring Gear (Potion)
+Potion of Climbing
+Adventuring Gear (Potion)
+Potion of Cold Resistance
+Adventuring Gear (Potion)
+Potion of Diminution
+Adventuring Gear (Potion)
+Potion of Fire Resistance
+Adventuring Gear
+Potion of Flying
+Adventuring Gear (Potion)
+Potion of Force Resistance
+Adventuring Gear
+Potion of Gaseous Form
+Adventuring Gear (Potion)
+Potion of Giant Strength
+Adventuring Gear (Potion)
+Potion of Growth
+Adventuring Gear (Potion)
+Potion of Healing
+Adventuring Gear (Potion)
+Potion of Heroism
+Adventuring Gear (Potion)
+Potion of Invisibility
+Adventuring Gear (Potion)
+Potion of Invulnerability
+Adventuring Gear (Potion)
+Potion of Lightning Resistance
+Adventuring Gear
+Potion of Mind Reading
+Adventuring Gear (Potion)
+Potion of Necrotic Resistance
+Adventuring Gear
+Potion of Poison
+Adventuring Gear (Potion)
+Potion of Poison Resistance
+Adventuring Gear
+Potion of Psychic Resistance
+Adventuring Gear
+Potion of Radiant Resistance
+Adventuring Gear
+Potion of Speed
+Adventuring Gear (Potion)
+Potion of Thunder Resistance
+Adventuring Gear
+Potion of Water Breathing
+Adventuring Gear (Potion)
+Potter's Tools
+Adventuring Gear (Artisan's Tools)
+Pouch
+Adventuring Gear
+Priest's Pack
+(Equipment Pack)
+Quarterstaff
+Melee Weapon (Simple, Staff)
+Quarterstaff +1
+Melee Weapon
+Quarterstaff +2
+Melee Weapon
+Quarterstaff +3
+Melee Weapon
+Quiver
+Adventuring Gear
+Rapier
+Melee Weapon (Martial, Sword)
+Rapier +1
+Melee Weapon
+Rapier +2
+Melee Weapon
+Rapier +3
+Melee Weapon
+Rations
+Adventuring Gear
+Reliquary
+Adventuring Gear
+Restorative Ointment
+Adventuring Gear (Wondrous Item)
+Ring Mail
+Heavy Armor (Armor)
+Ring Mail +1
+Heavy Armor
+Ring Mail +2
+Heavy Armor
+Ring Mail +3
+Heavy Armor
+Ring Mail of Acid Resistance
+Heavy Armor
+Ring Mail of Cold Resistance
+Heavy Armor
+Ring Mail of Fire Resistance
+Heavy Armor
+Ring Mail of Force Resistance
+Heavy Armor
+Ring Mail of Lightning Resistance
+Heavy Armor
+Ring Mail of Necrotic Resistance
+Heavy Armor
+Ring Mail of Poison Resistance
+Heavy Armor
+Ring Mail of Psychic Resistance
+Heavy Armor
+Ring Mail of Radiant Resistance
+Heavy Armor
+Ring Mail of Thunder Resistance
+Heavy Armor
+Ring of Acid Resistance
+Ring
+Ring of Animal Influence
+Ring (Ring)
+Ring of Cold Resistance
+Ring
+Ring of Djinni Summoning
+Ring (Ring)
+Ring of Elemental Command
+Ring
+Ring of Evasion
+Ring (Ring)
+Ring of Feather Falling
+Ring (Ring)
+Ring of Fire Resistance
+Ring
+Ring of Force Resistance
+Ring
+Ring of Free Action
+Ring (Ring)
+Ring of Invisibility
+Ring (Ring)
+Ring of Jumping
+Ring (Ring)
+Ring of Lightning Resistance
+Ring
+Ring of Mind Shielding
+Ring (Ring)
+Ring of Necrotic Resistance
+Ring
+Ring of Poison Resistance
+Ring
+Ring of Protection
+Ring (Ring)
+Ring of Psychic Resistance
+Ring
+Ring of Radiant Resistance
+Ring
+Ring of Regeneration
+Ring (Ring)
+Ring of Shooting Stars
+Ring (Ring)
+Ring of Spell Storing
+Ring (Ring)
+Ring of Spell Turning
+Ring (Ring)
+Ring of Swimming
+Ring (Ring)
+Ring of Telekinesis
+Ring (Ring)
+Ring of Three Wishes
+Ring (Ring)
+Ring of Thunder Resistance
+Ring
+Ring of Warmth
+Ring (Ring)
+Ring of Water Walking
+Ring (Ring)
+Ring of X-ray Vision
+Ring (Ring)
+Ring of the Ram
+Ring (Ring)
+Robe of Eyes
+Adventuring Gear (Wondrous Item, Robe)
+Robe of Scintillating Colors
+Adventuring Gear (Wondrous Item, Robe)
+Robe of Stars
+Adventuring Gear (Wondrous Item, Robe)
+Robe of Useful Items
+Adventuring Gear (Wondrous Item, Robe)
+Robe of the Archmagi
+Light Armor (Wondrous Item, Robe)
+Robes
+Adventuring Gear (Robe)
+Rod
+Adventuring Gear (Rod)
+Rod of Absorption
+Adventuring Gear (Rod)
+Rod of Alertness
+Adventuring Gear (Rod)
+Rod of Lordly Might
+Adventuring Gear (Rod)
+Rod of Rulership
+Adventuring Gear (Rod)
+Rod of Security
+Adventuring Gear (Rod)
+Rope of Climbing
+Adventuring Gear
+Rope of Entanglement
+Adventuring Gear
+Sack
+Adventuring Gear
+Scale Mail
+Medium Armor (Armor)
+Scale Mail +1
+Medium Armor
+Scale Mail +2
+Medium Armor
+Scale Mail +3
+Medium Armor
+Scale Mail of Acid Resistance
+Medium Armor
+Scale Mail of Cold Resistance
+Medium Armor
+Scale Mail of Fire Resistance
+Medium Armor
+Scale Mail of Force Resistance
+Medium Armor
+Scale Mail of Lightning Resistance
+Medium Armor
+Scale Mail of Necrotic Resistance
+Medium Armor
+Scale Mail of Poison Resistance
+Medium Armor
+Scale Mail of Psychic Resistance
+Medium Armor
+Scale Mail of Radiant Resistance
+Medium Armor
+Scale Mail of Thunder Resistance
+Medium Armor
+Scarab of Protection
+Adventuring Gear (Wondrous Item)
+Scholar's Pack
+(Equipment Pack)
+Scimitar
+Melee Weapon (Martial, Sword)
+Scimitar +1
+Melee Weapon
+Scimitar +2
+Melee Weapon
+Scimitar +3
+Melee Weapon
+Scimitar of Speed
+Melee Weapon (Martial, Sword)
+Sealing wax
+Adventuring Gear
+Shawm
+Adventuring Gear (Musical Instrument)
+Shield
+Shield (Shield)
+Shield +1
+Shield
+Shield +2
+Shield
+Shield +3
+Shield
+Shield of Missile Attraction
+Shield (Shield)
+Shortbow
+Ranged Weapon (Simple, Bow)
+Shortbow +1
+Ranged Weapon
+Shortbow +2
+Ranged Weapon
+Shortbow +3
+Ranged Weapon
+Shortsword
+Melee Weapon (Martial, Sword)
+Shortsword +1
+Melee Weapon
+Shortsword +2
+Melee Weapon
+Shortsword +3
+Melee Weapon
+Shovel
+Adventuring Gear
+Sickle
+Melee Weapon (Simple, Sickle)
+Sickle +1
+Melee Weapon
+Sickle +2
+Melee Weapon
+Sickle +3
+Melee Weapon
+Signal whistle
+Adventuring Gear
+Signet ring
+Adventuring Gear
+Silk rope
+Adventuring Gear
+Sledge hammer
+Adventuring Gear
+Sling
+Ranged Weapon (Simple, Sling)
+Sling +1
+Ranged Weapon
+Sling +2
+Ranged Weapon
+Sling +3
+Ranged Weapon
+Sling bullets
+Ammunition (Ammunition)
+Slippers of Spider Climbing
+Adventuring Gear (Wondrous Item, Feet)
+Smith's Tools
+Adventuring Gear (Artisan's Tools)
+Soap
+Adventuring Gear
+Sovereign Glue
+Adventuring Gear (Wondrous Item)
+Spear
+Melee Weapon (Simple, Spear)
+Spear +1
+Melee Weapon
+Spear +2
+Melee Weapon
+Spear +3
+Melee Weapon
+Spell Scroll
+Scroll
+Spellbook
+Adventuring Gear
+Spellguard Shield
+Shield (Shield)
+Sphere of Annihilation
+Adventuring Gear (Wondrous Item)
+Spiked Armor of Acid Resistance
+Medium Armor
+Spiked Armor of Cold Resistance
+Medium Armor
+Spiked Armor of Fire Resistance
+Medium Armor
+Spiked Armor of Force Resistance
+Medium Armor
+Spiked Armor of Lightning Resistance
+Medium Armor
+Spiked Armor of Necrotic Resistance
+Medium Armor
+Spiked Armor of Poison Resistance
+Medium Armor
+Spiked Armor of Psychic Resistance
+Medium Armor
+Spiked Armor of Radiant Resistance
+Medium Armor
+Spiked Armor of Thunder Resistance
+Medium Armor
+Splint Armor
+Heavy Armor (Armor)
+Splint Armor +1
+Heavy Armor
+Splint Armor +2
+Heavy Armor
+Splint Armor +3
+Heavy Armor
+Splint Armor of Acid Resistance
+Heavy Armor
+Splint Armor of Cold Resistance
+Heavy Armor
+Splint Armor of Fire Resistance
+Heavy Armor
+Splint Armor of Force Resistance
+Heavy Armor
+Splint Armor of Lightning Resistance
+Heavy Armor
+Splint Armor of Necrotic Resistance
+Heavy Armor
+Splint Armor of Poison Resistance
+Heavy Armor
+Splint Armor of Psychic Resistance
+Heavy Armor
+Splint Armor of Radiant Resistance
+Heavy Armor
+Splint Armor of Thunder Resistance
+Heavy Armor
+Sprig of mistletoe
+Adventuring Gear (Druidic Focus)
+Spyglass
+Adventuring Gear
+Staff
+Adventuring Gear (Staff)
+Staff of Charming
+Adventuring Gear (Staff)
+Staff of Fire
+Adventuring Gear (Staff)
+Staff of Frost
+Adventuring Gear (Staff)
+Staff of Healing
+Adventuring Gear (Staff)
+Staff of Power
+Adventuring Gear (Staff)
+Staff of Striking
+Adventuring Gear (Staff)
+Staff of Swarming Insects
+Adventuring Gear (Staff)
+Staff of Thunder and Lightning
+Adventuring Gear (Staff)
+Staff of Withering
+Adventuring Gear (Staff)
+Staff of the Magi
+Adventuring Gear (Staff)
+Staff of the Python
+Adventuring Gear (Staff)
+Staff of the Woodlands
+Adventuring Gear (Staff)
+Steel mirror
+Adventuring Gear
+Stone of Controlling Earth Elementals
+Adventuring Gear (Wondrous Item)
+Stone of Good Luck
+Adventuring Gear (Wondrous Item)
+Studded Leather Armor
+Light Armor (Armor)
+Studded Leather Armor +1
+Light Armor
+Studded Leather Armor +2
+Light Armor
+Studded Leather Armor +3
+Light Armor
+Studded Leather Armor of Acid Resistance
+Light Armor
+Studded Leather Armor of Cold Resistance
+Light Armor
+Studded Leather Armor of Fire Resistance
+Light Armor
+Studded Leather Armor of Force Resistance
+Light Armor
+Studded Leather Armor of Lightning Resistance
+Light Armor
+Studded Leather Armor of Necrotic Resistance
+Light Armor
+Studded Leather Armor of Poison Resistance
+Light Armor
+Studded Leather Armor of Psychic Resistance
+Light Armor
+Studded Leather Armor of Radiant Resistance
+Light Armor
+Studded Leather Armor of Thunder Resistance
+Light Armor
+Sun Blade
+Melee Weapon (Sword, Martial)
+Sword of Life Stealing
+Sword
+Sword of Sharpness
+Sword
+Sword of Wounding
+Sword
+Talisman of Pure Good
+Adventuring Gear (Wondrous Item, Neck)
+Talisman of Ultimate Evil
+Adventuring Gear (Wondrous Item, Neck)
+Talisman of the Sphere
+Adventuring Gear (Wondrous Item, Neck)
+Tent
+Adventuring Gear
+Thieves' Tools
+Adventuring Gear
+Tinderbox
+Adventuring Gear
+Tinker's Tools
+Adventuring Gear (Artisan's Tools)
+Tome of Clear Thought
+Adventuring Gear (Wondrous Item)
+Tome of Leadership and Influence
+Adventuring Gear (Wondrous Item)
+Tome of Understanding
+Adventuring Gear (Wondrous Item)
+Torch
+Adventuring Gear
+Totem
+Adventuring Gear (Druidic Focus)
+Traveler's clothes
+Adventuring Gear (Clothing)
+Trident
+Melee Weapon (Martial, Trident)
+Trident +1
+Melee Weapon
+Trident +2
+Melee Weapon
+Trident +3
+Melee Weapon
+Trident of Fish Command
+Melee Weapon (Trident, Martial)
+Universal Solvent
+Adventuring Gear (Wondrous Item)
+Vial
+Adventuring Gear
+Vicious Battleaxe
+Melee Weapon
+Vicious Blowgun
+Ranged Weapon
+Vicious Club
+Melee Weapon
+Vicious Dagger
+Melee Weapon
+Vicious Dart
+Ranged Weapon
+Vicious Flail
+Melee Weapon
+Vicious Glaive
+Melee Weapon
+Vicious Greataxe
+Melee Weapon
+Vicious Greatclub
+Melee Weapon
+Vicious Greatsword
+Melee Weapon
+Vicious Halberd
+Melee Weapon
+Vicious Hand Crossbow
+Ranged Weapon
+Vicious Handaxe
+Melee Weapon
+Vicious Heavy Crossbow
+Ranged Weapon
+Vicious Javelin
+Melee Weapon
+Vicious Lance
+Melee Weapon
+Vicious Light Crossbow
+Ranged Weapon
+Vicious Light Hammer
+Melee Weapon
+Vicious Longbow
+Ranged Weapon
+Vicious Longsword
+Melee Weapon
+Vicious Mace
+Melee Weapon
+Vicious Maul
+Melee Weapon
+Vicious Morningstar
+Melee Weapon
+Vicious Pike
+Melee Weapon
+Vicious Quarterstaff
+Melee Weapon
+Vicious Rapier
+Melee Weapon
+Vicious Scimitar
+Melee Weapon
+Vicious Shortbow
+Ranged Weapon
+Vicious Shortsword
+Melee Weapon
+Vicious Sickle
+Melee Weapon
+Vicious Sling
+Ranged Weapon
+Vicious Spear
+Melee Weapon
+Vicious Trident
+Melee Weapon
+Vicious War Pick
+Melee Weapon
+Vicious Warhammer
+Melee Weapon
+Vicious Whip
+Melee Weapon
+Viol
+Adventuring Gear (Musical Instrument)
+Vorpal Greatsword
+Melee Weapon
+Vorpal Longsword
+Melee Weapon
+Vorpal Scimitar
+Melee Weapon
+Wand
+Adventuring Gear (Arcane Focus)
+Wand of Binding
+Adventuring Gear (Wand)
+Wand of Enemy Detection
+Adventuring Gear (Wand)
+Wand of Fear
+Adventuring Gear (Wand)
+Wand of Fireballs
+Adventuring Gear (Wand)
+Wand of Lightning Bolts
+Adventuring Gear (Wand)
+Wand of Magic Detection
+Adventuring Gear (Wand)
+Wand of Magic Missiles
+Adventuring Gear (Wand)
+Wand of Paralysis
+Adventuring Gear (Wand)
+Wand of Polymorph
+Adventuring Gear (Wand)
+Wand of Secrets
+Adventuring Gear (Wand)
+Wand of Web
+Adventuring Gear (Wand)
+Wand of Wonder
+Adventuring Gear (Wand)
+Wand of the War Mage, +1
+Adventuring Gear (Wand)
+Wand of the War Mage, +2
+Adventuring Gear (Wand)
+Wand of the War Mage, +3
+Adventuring Gear (Wand)
+War Pick
+Melee Weapon (Martial, Pick)
+War Pick +1
+Melee Weapon
+War Pick +2
+Melee Weapon
+War Pick +3
+Melee Weapon
+Warhammer
+Melee Weapon (Martial, Hammer)
+Warhammer +1
+Melee Weapon
+Warhammer +2
+Melee Weapon
+Warhammer +3
+Melee Weapon
+Waterskin
+Adventuring Gear
+Weaver's Tools
+Adventuring Gear (Artisan's Tools)
+Well of Many Worlds
+Adventuring Gear (Wondrous Item)
+Whetstone
+Adventuring Gear
+Whip
+Melee Weapon (Martial, Whip)
+Whip +1
+Melee Weapon
+Whip +2
+Melee Weapon
+Whip +3
+Melee Weapon
+Wind Fan
+Adventuring Gear (Wondrous Item)
+Winged Boots
+Adventuring Gear (Wondrous Item, Feet)
+Wings of Flying
+Adventuring Gear (Wondrous Item)
+Woodcarver's Tools
+Adventuring Gear (Artisan's Tools)
+Wooden Shield
+Shield (Shield)
+Wooden staff
+Adventuring Gear (Arcane Focus)
+Yew wand
+Adventuring Gear (Druidic Focus)
